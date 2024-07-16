@@ -1,0 +1,75 @@
+C:\Users\mathe\Documents\PingPong\bin\Debug\net6.0-windows\PingPong.exe
+C:\Users\mathe\Documents\PingPong\bin\Debug\net6.0-windows\PingPong.deps.json
+C:\Users\mathe\Documents\PingPong\bin\Debug\net6.0-windows\PingPong.runtimeconfig.json
+C:\Users\mathe\Documents\PingPong\bin\Debug\net6.0-windows\PingPong.dll
+C:\Users\mathe\Documents\PingPong\bin\Debug\net6.0-windows\PingPong.pdb
+C:\Users\mathe\Documents\PingPong\obj\Debug\net6.0-windows\PingPong.frmDificuldade.resources
+C:\Users\mathe\Documents\PingPong\obj\Debug\net6.0-windows\PingPong.frmTela.resources
+C:\Users\mathe\Documents\PingPong\obj\Debug\net6.0-windows\PingPong.Properties.Resources.resources
+C:\Users\mathe\Documents\PingPong\obj\Debug\net6.0-windows\PingPong.csproj.GenerateResource.cache
+C:\Users\mathe\Documents\PingPong\obj\Debug\net6.0-windows\PingPong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Documents\PingPong\obj\Debug\net6.0-windows\PingPong.AssemblyInfoInputs.cache
+C:\Users\mathe\Documents\PingPong\obj\Debug\net6.0-windows\PingPong.AssemblyInfo.cs
+C:\Users\mathe\Documents\PingPong\obj\Debug\net6.0-windows\PingPong.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Documents\PingPong\obj\Debug\net6.0-windows\PingPong.dll
+C:\Users\mathe\Documents\PingPong\obj\Debug\net6.0-windows\refint\PingPong.dll
+C:\Users\mathe\Documents\PingPong\obj\Debug\net6.0-windows\PingPong.pdb
+C:\Users\mathe\Documents\PingPong\obj\Debug\net6.0-windows\PingPong.genruntimeconfig.cache
+C:\Users\mathe\Documents\PingPong\obj\Debug\net6.0-windows\ref\PingPong.dll
+C:\Users\F177-LAB04-PC01\Downloads\PingPong\bin\Debug\net6.0-windows\PingPong.exe
+C:\Users\F177-LAB04-PC01\Downloads\PingPong\bin\Debug\net6.0-windows\PingPong.deps.json
+C:\Users\F177-LAB04-PC01\Downloads\PingPong\bin\Debug\net6.0-windows\PingPong.runtimeconfig.json
+C:\Users\F177-LAB04-PC01\Downloads\PingPong\bin\Debug\net6.0-windows\PingPong.dll
+C:\Users\F177-LAB04-PC01\Downloads\PingPong\bin\Debug\net6.0-windows\PingPong.pdb
+C:\Users\F177-LAB04-PC01\Downloads\PingPong\obj\Debug\net6.0-windows\PingPong.csproj.AssemblyReference.cache
+C:\Users\F177-LAB04-PC01\Downloads\PingPong\obj\Debug\net6.0-windows\PingPong.frmDificuldade.resources
+C:\Users\F177-LAB04-PC01\Downloads\PingPong\obj\Debug\net6.0-windows\PingPong.frmTela.resources
+C:\Users\F177-LAB04-PC01\Downloads\PingPong\obj\Debug\net6.0-windows\PingPong.Properties.Resources.resources
+C:\Users\F177-LAB04-PC01\Downloads\PingPong\obj\Debug\net6.0-windows\PingPong.csproj.GenerateResource.cache
+C:\Users\F177-LAB04-PC01\Downloads\PingPong\obj\Debug\net6.0-windows\PingPong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\F177-LAB04-PC01\Downloads\PingPong\obj\Debug\net6.0-windows\PingPong.AssemblyInfoInputs.cache
+C:\Users\F177-LAB04-PC01\Downloads\PingPong\obj\Debug\net6.0-windows\PingPong.AssemblyInfo.cs
+C:\Users\F177-LAB04-PC01\Downloads\PingPong\obj\Debug\net6.0-windows\PingPong.csproj.CoreCompileInputs.cache
+C:\Users\F177-LAB04-PC01\Downloads\PingPong\obj\Debug\net6.0-windows\PingPong.dll
+C:\Users\F177-LAB04-PC01\Downloads\PingPong\obj\Debug\net6.0-windows\refint\PingPong.dll
+C:\Users\F177-LAB04-PC01\Downloads\PingPong\obj\Debug\net6.0-windows\PingPong.pdb
+C:\Users\F177-LAB04-PC01\Downloads\PingPong\obj\Debug\net6.0-windows\PingPong.genruntimeconfig.cache
+C:\Users\F177-LAB04-PC01\Downloads\PingPong\obj\Debug\net6.0-windows\ref\PingPong.dll
+C:\Users\mathe\Área de Trabalho\PingPong\bin\Debug\net6.0-windows\PingPong.exe
+C:\Users\mathe\Área de Trabalho\PingPong\bin\Debug\net6.0-windows\PingPong.deps.json
+C:\Users\mathe\Área de Trabalho\PingPong\bin\Debug\net6.0-windows\PingPong.runtimeconfig.json
+C:\Users\mathe\Área de Trabalho\PingPong\bin\Debug\net6.0-windows\PingPong.dll
+C:\Users\mathe\Área de Trabalho\PingPong\bin\Debug\net6.0-windows\PingPong.pdb
+C:\Users\mathe\Área de Trabalho\PingPong\obj\Debug\net6.0-windows\PingPong.frmDificuldade.resources
+C:\Users\mathe\Área de Trabalho\PingPong\obj\Debug\net6.0-windows\PingPong.frmTela.resources
+C:\Users\mathe\Área de Trabalho\PingPong\obj\Debug\net6.0-windows\PingPong.Properties.Resources.resources
+C:\Users\mathe\Área de Trabalho\PingPong\obj\Debug\net6.0-windows\PingPong.csproj.GenerateResource.cache
+C:\Users\mathe\Área de Trabalho\PingPong\obj\Debug\net6.0-windows\PingPong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Área de Trabalho\PingPong\obj\Debug\net6.0-windows\PingPong.AssemblyInfoInputs.cache
+C:\Users\mathe\Área de Trabalho\PingPong\obj\Debug\net6.0-windows\PingPong.AssemblyInfo.cs
+C:\Users\mathe\Área de Trabalho\PingPong\obj\Debug\net6.0-windows\PingPong.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Área de Trabalho\PingPong\obj\Debug\net6.0-windows\PingPong.dll
+C:\Users\mathe\Área de Trabalho\PingPong\obj\Debug\net6.0-windows\refint\PingPong.dll
+C:\Users\mathe\Área de Trabalho\PingPong\obj\Debug\net6.0-windows\PingPong.pdb
+C:\Users\mathe\Área de Trabalho\PingPong\obj\Debug\net6.0-windows\PingPong.genruntimeconfig.cache
+C:\Users\mathe\Área de Trabalho\PingPong\obj\Debug\net6.0-windows\ref\PingPong.dll
+C:\Users\mathe\Área de Trabalho\PingPong\obj\Debug\net6.0-windows\PingPong.frmSplash.resources
+C:\Users\mathe\Documentos\Projetos\PingPong\bin\Debug\net6.0-windows\PingPong.exe
+C:\Users\mathe\Documentos\Projetos\PingPong\obj\Debug\net6.0-windows\PingPong.frmDificuldade.resources
+C:\Users\mathe\Documentos\Projetos\PingPong\obj\Debug\net6.0-windows\PingPong.frmSplash.resources
+C:\Users\mathe\Documentos\Projetos\PingPong\obj\Debug\net6.0-windows\PingPong.frmTela.resources
+C:\Users\mathe\Documentos\Projetos\PingPong\obj\Debug\net6.0-windows\PingPong.Properties.Resources.resources
+C:\Users\mathe\Documentos\Projetos\PingPong\obj\Debug\net6.0-windows\PingPong.csproj.GenerateResource.cache
+C:\Users\mathe\Documentos\Projetos\PingPong\obj\Debug\net6.0-windows\PingPong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Documentos\Projetos\PingPong\obj\Debug\net6.0-windows\PingPong.AssemblyInfoInputs.cache
+C:\Users\mathe\Documentos\Projetos\PingPong\obj\Debug\net6.0-windows\PingPong.AssemblyInfo.cs
+C:\Users\mathe\Documentos\Projetos\PingPong\obj\Debug\net6.0-windows\PingPong.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Documentos\Projetos\PingPong\obj\Debug\net6.0-windows\PingPong.dll
+C:\Users\mathe\Documentos\Projetos\PingPong\obj\Debug\net6.0-windows\refint\PingPong.dll
+C:\Users\mathe\Documentos\Projetos\PingPong\obj\Debug\net6.0-windows\PingPong.pdb
+C:\Users\mathe\Documentos\Projetos\PingPong\bin\Debug\net6.0-windows\PingPong.deps.json
+C:\Users\mathe\Documentos\Projetos\PingPong\bin\Debug\net6.0-windows\PingPong.runtimeconfig.json
+C:\Users\mathe\Documentos\Projetos\PingPong\bin\Debug\net6.0-windows\PingPong.dll
+C:\Users\mathe\Documentos\Projetos\PingPong\bin\Debug\net6.0-windows\PingPong.pdb
+C:\Users\mathe\Documentos\Projetos\PingPong\obj\Debug\net6.0-windows\PingPong.genruntimeconfig.cache
+C:\Users\mathe\Documentos\Projetos\PingPong\obj\Debug\net6.0-windows\ref\PingPong.dll
